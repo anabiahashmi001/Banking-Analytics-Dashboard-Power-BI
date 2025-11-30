@@ -1,8 +1,8 @@
-🏦 Banking Dashboard 2025 – Data Analysis Project
+# 🏦 Banking Dashboard 2025 – Data Analysis Project
 
 A complete Banking Analytics Dashboard built using SQL + Excel + Python + Power BI to analyze loan distribution, deposits, income segmentation, client count, and banking performance metrics.
 
-🔧 Tools Used
+## 🔧 Tools Used
 Tool	Purpose
 SQL	Filtering, aggregation & data extraction
 Excel	Cleaning, formatting & dataset preparation
